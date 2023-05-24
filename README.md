@@ -1,6 +1,6 @@
 ### <h3>Hello, welcome to my GitHub page 👋</h3>
 
- <h4>I’m Alex Ercolin Oliveira and I'm a Production Engineer working as a Software Engineer at PPRO Payments. Passionate about tech and learn new stufs!</h4>
+ <h4>I’m Alex Ercolin Oliveira and I'm a Production Engineer working as a Software Engineer at Compra Rápida. Passionate about tech and learn new stufs!</h4>
 
  <div>
   <a href="https://github.com/alexercolin">
