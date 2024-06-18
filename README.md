@@ -1,6 +1,6 @@
 ### <h3>Welcome👋</h3>
 
- <h4>Working as a Software Engineer at Compra Rápida</h4>
+ <h4>Working as a Software Engineer</h4>
 
  <div>
   <a href="https://github.com/alexercolin">
